@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+HTML, BODY {
+	font-family: Arial, sans-serif;
+	height: 100%;
+	width: 100%;
+}
+
+#container {
+		overflow: hidden;
+    display: block;
+		position: absolute;
+}
+
+
+.txtx {
+	position: absolute;
+	width: 50%;
+	left: 25%;
+	top: 20%;
+}
+
+.txtx h1 {
+	font-family: Arial, sans-serif;
+	color: #fff;
+	font-size: 7em;
+}
+
+.txtx p {
+	font-family: Arial, sans-serif;
+	color: #fff;
+	font-size: 2em;
+	line-height: 1.5em;
+	margin-top: 2em;
+}

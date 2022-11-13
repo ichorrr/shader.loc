@@ -1,0 +1,25 @@
+{
+  "name": "threejs.loc",
+  "version": "1.0.0",
+  "description": "ichor.by",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "three": "^0.114.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichorrr/threejs.loc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ichorrr/threejs.loc/issues"
+  },
+  "homepage": "https://github.com/ichorrr/threejs.loc#readme"
+}
